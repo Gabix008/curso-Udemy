@@ -1,0 +1,15 @@
+/*Se um seletor for mais especifico que outro, a regra mais especifica será aplicada*/
+*{ 
+    color: red;
+}
+h2{ /*3*/
+    color: blue;
+}
+
+h2.verde{ /*2*/
+    color: green;
+}
+
+h2#amarelo{ /*1*/
+    color: yellow;
+}

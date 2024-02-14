@@ -1,0 +1,43 @@
+/*Seletor universal*/
+/* *{
+    border: 1px solid red;
+}
+
+/*Seletor de texto
+h1{
+    background-color: blue;
+}
+*/
+
+/*Seletor de classes
+.verde{
+    color: green;
+}
+*/
+
+/*Seletor de ID
+#cabecalho{
+    border: 1px solid blue;
+}
+*/
+/*Seletor de Filho
+li>a{
+    color: yellow;
+}
+*/
+
+/*Seletor de Descendente
+div a{
+    color: palevioletred;
+}
+*/
+/*Seletor irmaos A
+h1+p{
+    color: brown;
+}
+*/
+/*Seletor irmaos G
+h1~p{
+color:chartreuse;
+}
+*/
